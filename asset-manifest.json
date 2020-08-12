@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gitapp-new-osher/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gitapp-new-osher/static/js/main.93d0d09e.chunk.js",
-    "main.js.map": "/gitapp-new-osher/static/js/main.93d0d09e.chunk.js.map",
+    "main.js": "/gitapp-new-osher/static/js/main.9e3f94a5.chunk.js",
+    "main.js.map": "/gitapp-new-osher/static/js/main.9e3f94a5.chunk.js.map",
     "runtime-main.js": "/gitapp-new-osher/static/js/runtime-main.d9964275.js",
     "runtime-main.js.map": "/gitapp-new-osher/static/js/runtime-main.d9964275.js.map",
     "static/js/2.c10c8157.chunk.js": "/gitapp-new-osher/static/js/2.c10c8157.chunk.js",
     "static/js/2.c10c8157.chunk.js.map": "/gitapp-new-osher/static/js/2.c10c8157.chunk.js.map",
     "index.html": "/gitapp-new-osher/index.html",
-    "precache-manifest.3ef23a925c094f288fc81434e3d920a7.js": "/gitapp-new-osher/precache-manifest.3ef23a925c094f288fc81434e3d920a7.js",
+    "precache-manifest.46030c09cdd3d58dc08843432a09b453.js": "/gitapp-new-osher/precache-manifest.46030c09cdd3d58dc08843432a09b453.js",
     "service-worker.js": "/gitapp-new-osher/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gitapp-new-osher/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.c10c8157.chunk.js.LICENSE.txt": "/gitapp-new-osher/static/js/2.c10c8157.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d9964275.js",
     "static/js/2.c10c8157.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.93d0d09e.chunk.js"
+    "static/js/main.9e3f94a5.chunk.js"
   ]
 }

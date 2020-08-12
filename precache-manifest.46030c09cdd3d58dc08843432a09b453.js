@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81eb2a72c681a9809d869ad3f00d1ed4",
+    "revision": "8589649fe61ff358710d494eeeb991a0",
     "url": "/gitapp-new-osher/index.html"
   },
   {
-    "revision": "5915a9207ce4f8dfd568",
+    "revision": "7b313311e550c8ac139f",
     "url": "/gitapp-new-osher/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitapp-new-osher/static/js/2.c10c8157.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5915a9207ce4f8dfd568",
-    "url": "/gitapp-new-osher/static/js/main.93d0d09e.chunk.js"
+    "revision": "7b313311e550c8ac139f",
+    "url": "/gitapp-new-osher/static/js/main.9e3f94a5.chunk.js"
   },
   {
     "revision": "f63c4484fdf038280179",

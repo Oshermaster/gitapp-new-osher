@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gitapp-new-osher/precache-manifest.3ef23a925c094f288fc81434e3d920a7.js"
+  "/gitapp-new-osher/precache-manifest.46030c09cdd3d58dc08843432a09b453.js"
 );
 
 self.addEventListener('message', (event) => {
